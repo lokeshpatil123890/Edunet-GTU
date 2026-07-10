@@ -5,8 +5,9 @@ import os
  
 pd.set_option("display.width", 120)
  
+base_dir = os.path.dirname(os.path.abspath(__file__))
 DATA_URL = "https://raw.githubusercontent.com/datasets/co2-fossil-by-nation/main/data/fossil-fuel-co2-emissions-by-nation.csv"
-LOCAL_PATH = "fossil-fuel-co2-emissions-by-nation.csv"
+LOCAL_PATH = os.path.join(base_dir, "fossil-fuel-co2-emissions-by-nation.csv")
  
 if not os.path.exists(LOCAL_PATH):
     urllib.request.urlretrieve(DATA_URL, LOCAL_PATH)
@@ -35,8 +36,8 @@ df["Per Capita"] = df["Per Capita"].fillna(df["Per Capita"].median())
 print(df.isna().sum().sum())
 print(df.groupby("Country")["Total"].sum().sort_values(ascending=False).head(5))
  
-df.to_csv("fossil_fuel_co2_emissions_cleaned.csv", index=False)
-df.head(10).to_csv("sample_data.csv", index=False)
-df.sort_values("Total", ascending=False).head(10).reset_index(drop=True).to_csv("sorted_data.csv", index=False)
-print("saved cleaned, sample (10 rows), and sorted (10 rows) csv files")
+df.to_csv(os.path.join(base_dir, "fossil_fuel_co2_emissions_cleaned.csv"), index=False)
+df.head(10).to_csv(os.path.join(base_dir, "sample_data.csv"), index=False)
+df.sort_values("Total", ascending=False).head(10).reset_index(drop=True).to_csv(os.path.join(base_dir, "sorted_data.csv"), index=False)
+print("saved cleaned, sample (10 rows), and sorted (10 rows) csv files in the script directory")
  
