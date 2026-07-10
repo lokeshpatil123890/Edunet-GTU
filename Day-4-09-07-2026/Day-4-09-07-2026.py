@@ -38,6 +38,6 @@ print(df.groupby("Country")["Total"].sum().sort_values(ascending=False).head(5))
  
 df.to_csv(os.path.join(base_dir, "fossil_fuel_co2_emissions_cleaned.csv"), index=False)
 df.head(10).to_csv(os.path.join(base_dir, "sample_data.csv"), index=False)
-df.sort_values("Total", ascending=False).head(10).reset_index(drop=True).to_csv(os.path.join(base_dir, "sorted_data.csv"), index=False)
-print("saved cleaned, sample (10 rows), and sorted (10 rows sorted by Total) csv files")
+df.head(10).sort_values("Total", ascending=False).to_csv(os.path.join(base_dir, "sorted_data.csv"), index=False)
+print("saved cleaned, sample (10 rows), and sorted (sorted sample) csv files")
  
