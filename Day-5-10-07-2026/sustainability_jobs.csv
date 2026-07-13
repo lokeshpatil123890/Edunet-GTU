@@ -1,0 +1,501 @@
+job_id,job_title,industry,country,company_size,education_level,experience_years,remote_ratio,green_certification,sustainability_score,carbon_offset_days,salary_usd
+1,Sustainability Analyst,Energy,Brazil,Small,Diploma,1.0,100.0,Yes,81.1,,43162.0
+2,Green Building Architect,Technology,Australia,Medium,Diploma,16.0,0.0,No,44.9,1.6,114089.0
+3,Wind Turbine Technician,Government,Canada,Small,Diploma,8.0,100.0,No,5.2,10.6,83397.0
+4,Environmental Compliance Officer,Government,Kenya,Medium,Masters,5.0,50.0,No,24.7,4.7,30507.0
+5,Environmental Compliance Officer,Manufacturing,Germany,Medium,,0.0,0.0,Yes,88.4,8.5,85303.0
+6,Climate Data Scientist,Finance,Kenya,Small,Masters,23.0,100.0,Yes,52.0,6.6,42857.0
+7,Sustainability Analyst,Finance,Brazil,Medium,Masters,21.0,0.0,No,,17.6,69565.0
+8,Wind Turbine Technician,Manufacturing,Canada,Large,Masters,21.0,0.0,No,92.9,,131501.0
+9,ESG Consultant,Manufacturing,Australia,Small,Bachelors,1.0,0.0,No,85.3,8.2,80091.0
+10,Sustainability Analyst,Manufacturing,Canada,Medium,PhD,9.0,50.0,No,60.5,8.3,95585.0
+11,Solar Installation Technician,Government,India,Large,Diploma,25.0,0.0,No,54.1,6.1,51064.0
+12,CSR Manager,Agriculture,Brazil,Small,Bachelors,15.0,0.0,No,57.4,13.5,60231.0
+13,Green Building Architect,Agriculture,Germany,Small,Bachelors,3.0,0.0,Yes,64.5,6.4,87672.0
+14,Green Building Architect,Agriculture,India,Small,PhD,3.0,0.0,Yes,92.0,5.9,37475.0
+15,Green Building Architect,Government,Canada,Large,Bachelors,,0.0,Yes,68.4,12.9,77477.0
+16,Green Building Architect,Energy,Brazil,Small,Masters,25.0,50.0,No,74.5,5.3,70844.0
+17,Solar Installation Technician,Government,UK,Small,Bachelors,4.0,0.0,Yes,83.4,7.8,88844.0
+18,Renewable Energy Engineer,Energy,UK,Small,PhD,23.0,0.0,Yes,36.6,0.1,130713.0
+19,Climate Data Scientist,Finance,USA,Small,,17.0,50.0,No,75.1,11.5,159790.0
+20,Environmental Compliance Officer,Technology,USA,Medium,Bachelors,23.0,0.0,Yes,54.1,,155603.0
+21,Solar Installation Technician,Construction,USA,Small,PhD,21.0,50.0,Yes,9.7,11.6,147053.0
+22,Carbon Accountant,Manufacturing,USA,Medium,Bachelors,8.0,0.0,No,17.4,15.3,107697.0
+23,Renewable Energy Engineer,Manufacturing,Brazil,Medium,Bachelors,21.0,0.0,Yes,39.6,3.8,56064.0
+24,CSR Manager,Agriculture,Brazil,Large,Bachelors,,0.0,No,70.6,9.2,42302.0
+25,Green Building Architect,Construction,Brazil,Small,Diploma,7.0,0.0,No,62.3,3.3,48799.0
+26,Wind Turbine Technician,Construction,USA,Large,Bachelors,5.0,0.0,Yes,63.7,,102791.0
+27,Environmental Compliance Officer,Government,USA,Medium,Bachelors,3.0,100.0,No,99.0,11.9,99459.0
+28,Climate Data Scientist,Manufacturing,India,Small,Diploma,2.0,0.0,No,34.6,8.5,30544.0
+29,Solar Installation Technician,Government,Canada,Large,Masters,4.0,50.0,No,59.5,0.9,95741.0
+30,Environmental Compliance Officer,Government,India,Large,Bachelors,3.0,50.0,No,66.1,1.4,32734.0
+31,Environmental Compliance Officer,Technology,UK,Small,Bachelors,9.0,0.0,No,45.3,1.1,93176.0
+32,ESG Consultant,Manufacturing,Germany,Large,Bachelors,1.0,50.0,No,60.6,10.5,83070.0
+33,Sustainability Analyst,Manufacturing,Australia,Medium,Bachelors,1.0,0.0,No,28.0,,70109.0
+34,Solar Installation Technician,Manufacturing,India,Medium,Masters,25.0,0.0,Yes,88.2,14.8,50246.0
+35,Climate Data Scientist,Technology,USA,Large,PhD,2.0,0.0,No,46.4,0.0,96072.0
+36,Sustainability Analyst,Manufacturing,Australia,Medium,PhD,1.0,,No,100.0,15.1,87441.0
+37,Climate Data Scientist,Finance,Kenya,Large,Bachelors,0.0,,No,59.4,12.7,22792.0
+38,Climate Data Scientist,Energy,USA,Medium,Bachelors,3.0,0.0,Yes,80.6,0.3,90857.0
+39,ESG Consultant,Finance,UK,Large,Bachelors,13.0,50.0,Yes,58.9,6.5,111303.0
+40,Wind Turbine Technician,Energy,Brazil,Medium,Bachelors,21.0,50.0,No,59.4,13.5,64755.0
+41,Renewable Energy Engineer,Technology,Australia,Small,Bachelors,19.0,0.0,No,48.3,10.8,132001.0
+42,Green Building Architect,Energy,Brazil,Medium,Masters,15.0,50.0,No,62.4,1.5,56363.0
+43,Green Building Architect,Manufacturing,UK,Medium,Bachelors,2.0,50.0,Yes,66.4,11.1,84859.0
+44,Carbon Accountant,Manufacturing,India,Small,,20.0,100.0,Yes,44.3,0.0,45357.0
+45,Sustainability Analyst,Agriculture,Australia,Small,Bachelors,0.0,100.0,No,57.5,6.9,74335.0
+46,CSR Manager,Energy,Germany,Medium,Bachelors,16.0,0.0,Yes,47.8,13.7,124662.0
+47,Environmental Compliance Officer,Finance,Germany,Small,Diploma,10.0,0.0,No,100.0,8.1,113392.0
+48,Climate Data Scientist,Technology,Canada,Small,,22.0,50.0,Yes,58.2,5.5,125526.0
+49,Wind Turbine Technician,Finance,Australia,Large,Masters,,0.0,Yes,90.9,12.4,101172.0
+50,Green Building Architect,Technology,USA,Large,Bachelors,16.0,0.0,Yes,56.1,12.9,135183.0
+51,Green Building Architect,Agriculture,Canada,Large,Bachelors,11.0,100.0,No,65.2,14.6,92418.0
+52,Renewable Energy Engineer,Construction,India,Medium,Bachelors,13.0,0.0,No,33.6,12.4,
+53,Carbon Accountant,Agriculture,Canada,Large,Masters,24.0,0.0,No,,13.4,128520.0
+54,Environmental Compliance Officer,Construction,Kenya,Medium,Bachelors,18.0,100.0,No,64.2,11.7,36246.0
+55,Environmental Compliance Officer,Government,USA,Small,Masters,10.0,0.0,Yes,91.7,9.3,131097.0
+56,Sustainability Analyst,Finance,Kenya,Small,PhD,11.0,0.0,No,64.4,8.4,37558.0
+57,Solar Installation Technician,Agriculture,UK,Medium,Bachelors,18.0,100.0,Yes,87.7,6.8,118443.0
+58,Renewable Energy Engineer,Government,Brazil,Small,Masters,8.0,0.0,Yes,72.8,1.9,51280.0
+59,Green Building Architect,Agriculture,UK,Medium,Diploma,4.0,0.0,No,92.5,3.2,81890.0
+60,Wind Turbine Technician,Agriculture,India,Large,PhD,12.0,0.0,Yes,58.8,6.6,40731.0
+61,CSR Manager,Finance,Brazil,Small,Bachelors,1.0,100.0,No,100.0,9.2,39742.0
+62,Green Building Architect,Energy,Australia,Small,PhD,4.0,0.0,No,50.3,,95312.0
+63,Carbon Accountant,Finance,Germany,Large,Bachelors,,50.0,No,44.7,7.8,100615.0
+64,CSR Manager,Manufacturing,Australia,Medium,Diploma,20.0,0.0,No,35.8,13.0,126628.0
+65,Environmental Compliance Officer,Government,Brazil,Small,Diploma,20.0,0.0,No,100.0,13.4,62962.0
+66,Carbon Accountant,Manufacturing,UK,Large,Masters,6.0,100.0,Yes,76.4,6.8,94237.0
+67,CSR Manager,Manufacturing,Kenya,Large,Bachelors,10.0,50.0,Yes,53.3,11.0,29777.0
+68,Carbon Accountant,Manufacturing,Australia,Medium,Diploma,,100.0,Yes,85.0,6.8,86976.0
+69,Sustainability Analyst,Technology,India,Medium,Masters,19.0,0.0,No,73.8,14.6,48811.0
+70,Environmental Compliance Officer,Finance,USA,Small,Masters,6.0,50.0,No,99.3,11.2,119543.0
+71,Green Building Architect,Government,Australia,Small,Bachelors,,100.0,Yes,29.0,2.0,135424.0
+72,Renewable Energy Engineer,Construction,Germany,Medium,Bachelors,21.0,0.0,No,54.7,,142994.0
+73,Environmental Compliance Officer,Manufacturing,Brazil,Small,Diploma,17.0,0.0,No,50.7,16.2,55874.0
+74,Renewable Energy Engineer,Energy,Canada,Medium,Masters,8.0,100.0,No,20.5,7.1,88359.0
+75,Wind Turbine Technician,Energy,UK,Large,Bachelors,24.0,0.0,No,81.2,10.2,142518.0
+76,Environmental Compliance Officer,Construction,Germany,Small,Masters,17.0,50.0,No,54.6,10.7,119742.0
+77,Carbon Accountant,Government,Australia,Medium,Bachelors,16.0,100.0,No,,2.8,125591.0
+78,ESG Consultant,Finance,Germany,Small,Bachelors,22.0,0.0,No,100.0,10.6,143485.0
+79,Solar Installation Technician,Government,UK,Large,,22.0,0.0,Yes,52.9,1.0,132535.0
+80,Wind Turbine Technician,Energy,Brazil,Small,Bachelors,2.0,0.0,No,51.6,4.9,42303.0
+81,CSR Manager,Energy,Kenya,Medium,Masters,22.0,0.0,Yes,62.4,13.4,46279.0
+82,Environmental Compliance Officer,Agriculture,Kenya,Medium,Bachelors,19.0,0.0,No,79.7,9.8,40386.0
+83,Renewable Energy Engineer,Energy,Kenya,Medium,Bachelors,5.0,50.0,Yes,48.7,6.5,27708.0
+84,Climate Data Scientist,Energy,Canada,Medium,PhD,7.0,0.0,Yes,47.4,,104097.0
+85,Wind Turbine Technician,Construction,Germany,Large,PhD,19.0,50.0,Yes,81.1,7.7,146668.0
+86,Green Building Architect,Government,Brazil,Medium,Masters,5.0,0.0,No,67.6,,45752.0
+87,Sustainability Analyst,Technology,Brazil,Large,Bachelors,11.0,0.0,Yes,,11.3,49898.0
+88,Carbon Accountant,Energy,Kenya,Large,Bachelors,17.0,0.0,Yes,35.5,4.4,37461.0
+89,Green Building Architect,Agriculture,Australia,Medium,Masters,16.0,50.0,No,90.0,8.2,125588.0
+90,Climate Data Scientist,Agriculture,Germany,Medium,Bachelors,23.0,0.0,No,68.0,6.4,130663.0
+91,Environmental Compliance Officer,Agriculture,Canada,Small,Diploma,,0.0,No,44.8,0.1,63495.0
+92,Climate Data Scientist,Government,UK,Large,Masters,7.0,100.0,No,56.6,,92474.0
+93,Climate Data Scientist,Manufacturing,Brazil,Medium,Bachelors,25.0,50.0,No,60.3,15.8,65696.0
+94,Carbon Accountant,Government,UK,Medium,Bachelors,14.0,0.0,Yes,74.7,9.9,108791.0
+95,Climate Data Scientist,Construction,India,Small,PhD,6.0,100.0,Yes,32.8,1.4,35658.0
+96,ESG Consultant,Agriculture,USA,Large,Masters,7.0,0.0,No,43.2,0.3,112802.0
+97,ESG Consultant,Technology,Brazil,Medium,Bachelors,8.0,0.0,Yes,65.5,7.4,49301.0
+98,Wind Turbine Technician,Agriculture,Brazil,Medium,Bachelors,14.0,0.0,No,58.0,15.8,51378.0
+99,Wind Turbine Technician,Technology,USA,Small,Bachelors,7.0,0.0,No,71.4,,108418.0
+100,Renewable Energy Engineer,Technology,UK,Large,Diploma,16.0,0.0,No,35.4,14.5,115414.0
+101,Climate Data Scientist,Technology,UK,Small,Masters,11.0,50.0,No,67.1,9.8,111124.0
+102,Renewable Energy Engineer,Agriculture,UK,Small,Masters,15.0,0.0,No,,10.4,114035.0
+103,Climate Data Scientist,Agriculture,Kenya,Large,Bachelors,,100.0,No,69.7,1.3,28817.0
+104,Sustainability Analyst,Energy,Germany,Large,Bachelors,16.0,100.0,No,62.8,12.7,138148.0
+105,Green Building Architect,Agriculture,India,Small,,24.0,50.0,Yes,58.1,6.3,49947.0
+106,Green Building Architect,Finance,Germany,Medium,Diploma,3.0,50.0,Yes,43.3,12.3,78645.0
+107,Green Building Architect,Construction,Germany,Large,Bachelors,8.0,50.0,No,58.6,3.9,100958.0
+108,Wind Turbine Technician,Finance,Kenya,Large,Bachelors,18.0,100.0,Yes,,8.9,40102.0
+109,Environmental Compliance Officer,Government,Kenya,Medium,Masters,16.0,0.0,No,57.6,,37522.0
+110,Green Building Architect,Government,USA,Medium,Bachelors,17.0,0.0,Yes,42.2,7.2,136859.0
+111,ESG Consultant,Agriculture,Australia,Large,Masters,14.0,50.0,No,50.2,10.0,104900.0
+112,Green Building Architect,Finance,Germany,Large,Bachelors,17.0,50.0,No,64.0,6.7,119030.0
+113,Solar Installation Technician,Agriculture,Germany,Large,Masters,15.0,0.0,No,52.5,4.8,121445.0
+114,Environmental Compliance Officer,Construction,India,Medium,Diploma,1.0,50.0,No,69.7,16.0,28129.0
+115,Solar Installation Technician,Technology,Germany,Small,Bachelors,19.0,0.0,Yes,70.5,13.2,125422.0
+116,Solar Installation Technician,Technology,UK,Large,Bachelors,11.0,100.0,No,77.8,4.2,106341.0
+117,Sustainability Analyst,Manufacturing,Kenya,Large,,1.0,0.0,Yes,88.5,10.8,27085.0
+118,Renewable Energy Engineer,Manufacturing,Canada,Large,Diploma,10.0,0.0,No,79.9,4.3,103818.0
+119,ESG Consultant,Energy,Australia,Small,Bachelors,11.0,0.0,No,41.3,2.1,99837.0
+120,Renewable Energy Engineer,Energy,UK,Small,Bachelors,2.0,0.0,No,41.9,13.2,81425.0
+121,Environmental Compliance Officer,Finance,USA,Large,Diploma,25.0,0.0,No,58.5,0.0,156937.0
+122,Wind Turbine Technician,Finance,USA,Small,PhD,5.0,0.0,No,51.0,12.6,115378.0
+123,Wind Turbine Technician,Manufacturing,India,Large,Bachelors,8.0,0.0,Yes,37.2,6.7,35407.0
+124,Environmental Compliance Officer,Construction,Germany,Medium,Masters,11.0,0.0,No,51.2,6.9,116770.0
+125,Climate Data Scientist,Technology,Brazil,Large,PhD,21.0,0.0,No,50.5,,69707.0
+126,Solar Installation Technician,Manufacturing,Brazil,Large,Diploma,,0.0,No,46.6,10.9,62081.0
+127,Sustainability Analyst,Construction,Brazil,Medium,Masters,20.0,0.0,No,53.7,3.9,63719.0
+128,Green Building Architect,Construction,Australia,Medium,Masters,6.0,0.0,Yes,83.6,11.6,99772.0
+129,Solar Installation Technician,Finance,Canada,Medium,Masters,21.0,0.0,Yes,64.0,,132574.0
+130,Wind Turbine Technician,Construction,Australia,Medium,Bachelors,21.0,0.0,Yes,100.0,,129016.0
+131,Solar Installation Technician,Agriculture,UK,Medium,Bachelors,12.0,0.0,Yes,63.4,7.2,102561.0
+132,Solar Installation Technician,Construction,Australia,Medium,Diploma,14.0,50.0,No,54.2,14.9,109057.0
+133,Sustainability Analyst,Finance,Brazil,Large,,0.0,100.0,No,60.1,16.4,40647.0
+134,Solar Installation Technician,Construction,Brazil,Medium,PhD,19.0,100.0,No,65.1,11.6,62517.0
+135,Green Building Architect,Manufacturing,Canada,Small,PhD,24.0,50.0,No,68.7,2.0,135235.0
+136,Carbon Accountant,Technology,USA,Medium,Diploma,,50.0,No,100.0,10.5,128162.0
+137,Wind Turbine Technician,Manufacturing,Australia,Medium,Masters,14.0,0.0,No,43.1,,97548.0
+138,Sustainability Analyst,Construction,India,Small,Bachelors,12.0,50.0,Yes,77.2,11.6,38619.0
+139,Carbon Accountant,Agriculture,Australia,Small,PhD,2.0,50.0,No,64.2,11.9,87296.0
+140,Environmental Compliance Officer,Government,Canada,Medium,Diploma,16.0,100.0,Yes,28.6,9.8,103341.0
+141,CSR Manager,Technology,Kenya,Medium,PhD,18.0,100.0,No,75.4,7.6,44150.0
+142,ESG Consultant,Government,India,Large,Masters,24.0,0.0,No,85.4,5.0,49181.0
+143,ESG Consultant,Agriculture,Kenya,Small,Diploma,24.0,50.0,No,42.9,0.0,39533.0
+144,Environmental Compliance Officer,Finance,Brazil,Small,Diploma,12.0,100.0,No,59.8,9.7,42819.0
+145,CSR Manager,Agriculture,India,Large,Masters,24.0,0.0,Yes,25.5,8.9,48070.0
+146,Climate Data Scientist,Construction,UK,Large,Bachelors,13.0,100.0,No,34.8,10.8,104062.0
+147,Sustainability Analyst,Finance,Canada,Small,Bachelors,16.0,0.0,No,81.0,1.3,109263.0
+148,ESG Consultant,Finance,Brazil,Small,PhD,15.0,100.0,No,50.7,11.2,62662.0
+149,Climate Data Scientist,Government,Australia,Small,Bachelors,25.0,50.0,No,37.8,18.3,139590.0
+150,Sustainability Analyst,Agriculture,Brazil,Medium,Bachelors,19.0,0.0,No,64.6,8.4,62161.0
+151,Climate Data Scientist,Finance,India,Medium,Bachelors,3.0,50.0,No,49.6,7.7,29331.0
+152,ESG Consultant,Technology,Canada,Small,,1.0,0.0,No,50.6,9.5,78098.0
+153,CSR Manager,Manufacturing,UK,Small,PhD,10.0,50.0,No,74.8,18.2,108963.0
+154,ESG Consultant,Agriculture,Kenya,Medium,Bachelors,13.0,50.0,No,36.8,2.9,31887.0
+155,Environmental Compliance Officer,Finance,India,Large,Bachelors,17.0,50.0,No,41.9,,38532.0
+156,Wind Turbine Technician,Finance,Canada,Medium,Bachelors,12.0,100.0,No,63.1,,99040.0
+157,Renewable Energy Engineer,Agriculture,USA,Medium,PhD,13.0,0.0,Yes,79.4,5.3,145153.0
+158,Solar Installation Technician,Technology,Brazil,Small,Diploma,23.0,0.0,No,84.8,7.8,73912.0
+159,Solar Installation Technician,Energy,UK,Small,Masters,8.0,0.0,Yes,,14.7,97651.0
+160,Green Building Architect,Construction,India,Small,Masters,12.0,0.0,Yes,78.7,17.0,38581.0
+161,CSR Manager,Manufacturing,Canada,Large,Masters,14.0,0.0,No,44.3,10.2,101017.0
+162,Wind Turbine Technician,Agriculture,UK,Large,PhD,12.0,0.0,Yes,96.5,6.1,122641.0
+163,Environmental Compliance Officer,Energy,Brazil,Large,Masters,25.0,0.0,Yes,37.3,20.5,63849.0
+164,Environmental Compliance Officer,Manufacturing,Canada,Large,PhD,25.0,0.0,Yes,,5.9,145839.0
+165,Environmental Compliance Officer,Technology,Canada,Large,Diploma,13.0,100.0,No,46.9,,106138.0
+166,Climate Data Scientist,Technology,USA,Large,Masters,11.0,0.0,No,100.0,0.0,137823.0
+167,Carbon Accountant,Finance,USA,Small,Bachelors,15.0,100.0,No,71.8,15.0,133247.0
+168,Renewable Energy Engineer,Government,UK,Small,Bachelors,4.0,0.0,Yes,39.7,12.8,87069.0
+169,Carbon Accountant,Government,Kenya,Medium,Masters,11.0,0.0,No,49.6,20.1,34012.0
+170,Sustainability Analyst,Energy,Kenya,Medium,PhD,5.0,50.0,No,75.6,1.1,
+171,Renewable Energy Engineer,Government,Australia,Small,Masters,3.0,0.0,No,81.1,15.3,101898.0
+172,Sustainability Analyst,Technology,Australia,Large,Bachelors,2.0,0.0,No,58.6,8.4,80874.0
+173,Green Building Architect,Technology,UK,Medium,Bachelors,15.0,50.0,Yes,60.9,,118759.0
+174,Green Building Architect,Energy,Germany,Medium,Bachelors,0.0,0.0,No,75.2,0.0,66139.0
+175,Wind Turbine Technician,Technology,USA,Small,Bachelors,,0.0,No,62.6,,146342.0
+176,Environmental Compliance Officer,Agriculture,India,Small,Bachelors,11.0,50.0,No,34.1,11.9,39722.0
+177,Green Building Architect,Technology,India,Small,Diploma,,0.0,No,43.7,7.8,34069.0
+178,Renewable Energy Engineer,Energy,Germany,Large,Diploma,20.0,100.0,No,64.7,11.2,134627.0
+179,CSR Manager,Finance,India,Medium,Masters,14.0,0.0,No,,4.2,44107.0
+180,Solar Installation Technician,Government,USA,Large,Bachelors,19.0,100.0,Yes,92.3,5.1,147185.0
+181,CSR Manager,Agriculture,Canada,Small,PhD,18.0,50.0,No,75.6,5.7,126162.0
+182,Renewable Energy Engineer,Energy,Kenya,Medium,Masters,0.0,100.0,No,65.7,0.0,24161.0
+183,Environmental Compliance Officer,Government,Australia,Medium,Diploma,5.0,100.0,Yes,75.0,12.3,84807.0
+184,Wind Turbine Technician,Government,UK,Large,Bachelors,14.0,0.0,No,46.7,14.0,118102.0
+185,Environmental Compliance Officer,Manufacturing,UK,Large,Bachelors,25.0,50.0,Yes,56.9,4.5,145064.0
+186,Environmental Compliance Officer,Agriculture,India,Small,PhD,4.0,0.0,No,43.5,9.7,31193.0
+187,Renewable Energy Engineer,Construction,Germany,Large,Bachelors,2.0,100.0,Yes,35.0,6.7,78658.0
+188,Carbon Accountant,Technology,Canada,Small,Bachelors,24.0,50.0,No,66.7,9.6,125087.0
+189,ESG Consultant,Finance,Canada,Large,PhD,25.0,0.0,Yes,63.7,4.9,144102.0
+190,Carbon Accountant,Agriculture,USA,Small,PhD,4.0,100.0,No,73.8,3.6,103813.0
+191,Wind Turbine Technician,Government,UK,Small,Bachelors,10.0,0.0,No,,13.3,104333.0
+192,Wind Turbine Technician,Agriculture,India,Large,Diploma,16.0,50.0,Yes,64.9,7.7,43768.0
+193,Wind Turbine Technician,Government,Germany,Small,Bachelors,5.0,50.0,No,71.1,18.1,93383.0
+194,Carbon Accountant,Government,Australia,Medium,Diploma,8.0,0.0,No,59.1,8.2,100653.0
+195,CSR Manager,Energy,Canada,Medium,Bachelors,10.0,50.0,No,68.3,3.4,95939.0
+196,Sustainability Analyst,Manufacturing,Australia,Small,Bachelors,16.0,100.0,Yes,45.5,14.1,
+197,Carbon Accountant,Agriculture,Australia,Large,PhD,8.0,0.0,No,67.4,11.2,99027.0
+198,Renewable Energy Engineer,Technology,Kenya,Large,Bachelors,10.0,50.0,Yes,73.4,11.6,35389.0
+199,Carbon Accountant,Energy,Brazil,Large,Masters,7.0,0.0,Yes,46.6,14.0,45976.0
+200,CSR Manager,Energy,Canada,Medium,Bachelors,,50.0,No,61.0,4.7,119930.0
+201,Carbon Accountant,Finance,Kenya,Medium,Masters,3.0,0.0,No,47.5,7.4,27255.0
+202,CSR Manager,Technology,UK,Small,Masters,,100.0,No,49.5,7.1,
+203,Environmental Compliance Officer,Manufacturing,Kenya,Small,Masters,6.0,100.0,Yes,37.5,1.5,27736.0
+204,Wind Turbine Technician,Manufacturing,Brazil,Small,PhD,23.0,0.0,No,85.3,6.7,75533.0
+205,Environmental Compliance Officer,Energy,Australia,Large,Bachelors,24.0,0.0,No,81.3,14.7,140763.0
+206,ESG Consultant,Finance,Kenya,Large,Diploma,13.0,50.0,No,,9.2,32543.0
+207,Green Building Architect,Energy,Canada,Large,Bachelors,4.0,50.0,No,99.4,1.3,91098.0
+208,CSR Manager,Technology,Australia,Medium,Bachelors,19.0,0.0,Yes,56.2,0.2,121734.0
+209,ESG Consultant,Finance,India,Medium,PhD,12.0,0.0,Yes,100.0,16.3,51250.0
+210: Green Building Architect,Finance,Kenya,Medium,Bachelors,22.0,0.0,No,55.4,7.5,41916.0
+211: ESG Consultant,Technology,Canada,Medium,Masters,9.0,100.0,No,65.1,4.8,95895.0
+212: Green Building Architect,Finance,Brazil,Medium,Bachelors,25.0,,Yes,52.0,,73018.0
+213: Green Building Architect,Agriculture,UK,Small,Bachelors,20.0,100.0,Yes,67.4,0.6,113566.0
+214: Environmental Compliance Officer,Agriculture,Brazil,Small,Bachelors,5.0,0.0,Yes,76.7,15.1,45633.0
+215: Green Building Architect,Government,USA,Large,Masters,18.0,100.0,No,57.7,6.0,163398.0
+216: ESG Consultant,Agriculture,USA,Medium,Masters,7.0,0.0,Yes,95.5,,119812.0
+217: Sustainability Analyst,Finance,Canada,Large,Bachelors,9.0,0.0,No,64.8,8.3,85445.0
+218: Sustainability Analyst,Finance,Australia,Small,Bachelors,6.0,100.0,No,65.4,15.1,88960.0
+219: Environmental Compliance Officer,Manufacturing,Brazil,Medium,Masters,17.0,100.0,Yes,,9.3,64429.0
+220: CSR Manager,Technology,UK,Small,Bachelors,6.0,0.0,No,68.4,12.3,94451.0
+221: Renewable Energy Engineer,Energy,Australia,Small,PhD,16.0,0.0,No,57.3,11.6,115767.0
+222: Environmental Compliance Officer,Government,Canada,Small,Bachelors,15.0,0.0,No,47.8,11.1,101666.0
+223: Green Building Architect,Agriculture,Kenya,Small,Diploma,19.0,0.0,Yes,44.5,,36306.0
+224: ESG Consultant,Energy,Australia,Large,Bachelors,25.0,0.0,No,100.0,6.8,146704.0
+225: Green Building Architect,Agriculture,UK,Medium,Bachelors,0.0,100.0,Yes,54.7,17.6,85352.0
+226: Carbon Accountant,Energy,Kenya,Medium,Bachelors,25.0,0.0,No,30.9,3.5,44808.0
+227: Climate Data Scientist,Agriculture,USA,Medium,Bachelors,2.0,50.0,No,46.0,8.0,98353.0
+228: Solar Installation Technician,Energy,Kenya,Medium,PhD,13.0,0.0,Yes,59.0,8.1,33842.0
+229: Solar Installation Technician,Finance,Germany,Medium,Bachelors,8.0,0.0,Yes,70.9,10.0,93311.0
+230: Renewable Energy Engineer,Technology,India,Small,Bachelors,16.0,50.0,No,71.1,5.9,43653.0
+231: Environmental Compliance Officer,Agriculture,Brazil,Large,Bachelors,,0.0,Yes,73.5,9.6,57501.0
+232: Climate Data Scientist,Construction,Australia,Large,Diploma,22.0,50.0,Yes,47.1,7.2,126113.0
+233: Sustainability Analyst,Government,Kenya,Large,Bachelors,10.0,0.0,No,66.8,0.1,33614.0
+234: Green Building Architect,Agriculture,Australia,Medium,Bachelors,24.0,100.0,Yes,42.5,8.0,125482.0
+235: Environmental Compliance Officer,Manufacturing,Australia,Small,Masters,8.0,50.0,Yes,47.6,,90603.0
+236: Green Building Architect,Technology,India,Large,Diploma,5.0,100.0,No,41.6,0.0,30951.0
+237: Wind Turbine Technician,Agriculture,USA,Medium,PhD,9.0,0.0,Yes,36.2,8.7,125016.0
+238: Environmental Compliance Officer,Construction,USA,Small,Bachelors,13.0,0.0,No,81.3,10.4,139003.0
+239: Carbon Accountant,Agriculture,India,Medium,Masters,17.0,0.0,No,73.8,10.6,46359.0
+240: Wind Turbine Technician,Government,USA,Large,Bachelors,21.0,50.0,No,79.5,10.8,156497.0
+241: Renewable Energy Engineer,Agriculture,Canada,Medium,Diploma,5.0,0.0,Yes,60.8,0.0,78297.0
+242: Solar Installation Technician,Agriculture,Brazil,Large,Masters,,0.0,No,75.5,1.2,46879.0
+243: Sustainability Analyst,Technology,Kenya,Large,Masters,24.0,0.0,Yes,24.8,17.9,41969.0
+244: Wind Turbine Technician,Manufacturing,UK,Small,Masters,11.0,0.0,No,77.3,2.8,111249.0
+245: Wind Turbine Technician,Agriculture,Kenya,Large,Bachelors,6.0,0.0,Yes,63.5,11.1,30464.0
+246: Sustainability Analyst,Construction,Kenya,Medium,Masters,25.0,0.0,No,72.5,4.6,40985.0
+247: Green Building Architect,Finance,Brazil,Medium,Masters,11.0,0.0,Yes,67.6,8.4,51479.0
+248: Environmental Compliance Officer,Construction,UK,Small,Masters,25.0,50.0,Yes,40.3,4.8,145489.0
+249: Green Building Architect,Construction,India,Large,Bachelors,23.0,0.0,No,30.0,10.8,47550.0
+250: Sustainability Analyst,Manufacturing,Kenya,Small,,23.0,0.0,Yes,45.8,8.7,39478.0
+251: Renewable Energy Engineer,Government,Germany,Small,Masters,15.0,50.0,Yes,71.3,5.8,139025.0
+252: Environmental Compliance Officer,Manufacturing,UK,Medium,PhD,20.0,,No,73.8,2.7,133851.0
+253: Renewable Energy Engineer,Energy,USA,Small,Bachelors,24.0,0.0,No,32.6,9.3,157583.0
+254: Carbon Accountant,Government,Brazil,Small,Bachelors,6.0,50.0,Yes,40.4,1.9,45455.0
+255: Wind Turbine Technician,Finance,Australia,Medium,Masters,0.0,100.0,No,45.5,,76180.0
+256: Renewable Energy Engineer,Finance,USA,Medium,Bachelors,8.0,50.0,No,52.9,21.1,107357.0
+257: Wind Turbine Technician,Agriculture,Germany,Large,Masters,16.0,100.0,No,32.8,14.8,136926.0
+258: Renewable Energy Engineer,Construction,Canada,Medium,Bachelors,14.0,50.0,No,31.6,11.6,108792.0
+259: Renewable Energy Engineer,Energy,Canada,Large,Bachelors,,0.0,No,43.6,7.6,82702.0
+260: Solar Installation Technician,Agriculture,Brazil,Medium,Masters,14.0,0.0,No,61.7,0.0,59214.0
+261: Green Building Architect,Manufacturing,India,Medium,Diploma,4.0,50.0,No,36.4,1.4,27159.0
+262: Renewable Energy Engineer,Finance,Kenya,Medium,Bachelors,13.0,100.0,No,57.7,14.4,37166.0
+263: ESG Consultant,Government,UK,Medium,Masters,14.0,0.0,Yes,81.2,4.1,111634.0
+264: CSR Manager,Government,Brazil,Large,Masters,16.0,0.0,Yes,34.0,4.5,59499.0
+265: CSR Manager,Construction,Germany,Medium,Masters,10.0,50.0,Yes,55.9,7.2,97602.0
+266: Solar Installation Technician,Agriculture,USA,Small,Bachelors,10.0,0.0,No,80.5,2.7,106099.0
+267: Environmental Compliance Officer,Technology,USA,Medium,Diploma,17.0,50.0,No,51.6,1.9,138127.0
+268: Carbon Accountant,Finance,India,Large,PhD,19.0,,No,48.5,7.7,45186.0
+269: Wind Turbine Technician,Energy,Kenya,Small,Bachelors,21.0,50.0,No,83.3,,37261.0
+270: Solar Installation Technician,Construction,USA,Medium,Bachelors,8.0,100.0,No,53.9,4.3,117405.0
+271: ESG Consultant,Technology,India,Large,Bachelors,11.0,50.0,Yes,82.1,4.1,44389.0
+272: Sustainability Analyst,Government,USA,Large,Bachelors,8.0,50.0,No,68.6,10.6,127880.0
+273: Renewable Energy Engineer,Energy,Kenya,Large,Masters,13.0,50.0,No,53.1,6.8,35220.0
+274: CSR Manager,Agriculture,Australia,Medium,Masters,3.0,100.0,Yes,69.6,7.1,89106.0
+275: Environmental Compliance Officer,Agriculture,Brazil,Medium,,11.0,100.0,No,66.4,11.0,56922.0
+276: Environmental Compliance Officer,Government,Australia,Medium,,4.0,0.0,Yes,80.4,7.3,96999.0
+277: Environmental Compliance Officer,Construction,Australia,Large,Bachelors,13.0,50.0,No,49.0,6.6,106281.0
+278: Green Building Architect,Energy,Brazil,Medium,Bachelors,22.0,0.0,No,60.8,10.4,65396.0
+279: Sustainability Analyst,Manufacturing,USA,Large,Diploma,25.0,100.0,Yes,58.8,11.3,163553.0
+280: Sustainability Analyst,Agriculture,Brazil,Medium,Bachelors,11.0,50.0,Yes,74.1,7.3,54678.0
+281: ESG Consultant,Government,Australia,Medium,Bachelors,1.0,0.0,Yes,39.5,8.4,76056.0
+282: Environmental Compliance Officer,Technology,Australia,Large,Diploma,5.0,0.0,Yes,80.3,4.1,90052.0
+283: Wind Turbine Technician,Energy,UK,Medium,Bachelors,2.0,0.0,No,69.3,3.7,92394.0
+284: Environmental Compliance Officer,Energy,Brazil,Large,Masters,19.0,50.0,Yes,33.7,11.8,66166.0
+285: Environmental Compliance Officer,Finance,UK,Medium,Diploma,25.0,0.0,Yes,84.2,10.2,
+286: CSR Manager,Technology,USA,Medium,Bachelors,14.0,0.0,No,100.0,10.3,150949.0
+287: Renewable Energy Engineer,Energy,Kenya,Medium,,4.0,100.0,No,80.0,9.4,28728.0
+288: Solar Installation Technician,Technology,Germany,Medium,Masters,0.0,50.0,No,88.5,,99312.0
+289: Solar Installation Technician,Finance,USA,Medium,Masters,25.0,0.0,No,61.7,11.5,171157.0
+290: Environmental Compliance Officer,Energy,Canada,Small,Bachelors,8.0,0.0,Yes,26.8,12.7,107774.0
+291: Climate Data Scientist,Energy,Germany,Small,Masters,2.0,100.0,No,23.1,12.6,75000.0
+292: ESG Consultant,Finance,Brazil,Medium,Bachelors,4.0,50.0,Yes,65.1,7.5,41512.0
+293: CSR Manager,Agriculture,UK,Medium,Bachelors,6.0,50.0,No,48.2,,92946.0
+294: Carbon Accountant,Agriculture,USA,Medium,Bachelors,17.0,0.0,No,41.7,9.1,140124.0
+295: Solar Installation Technician,Finance,Kenya,Small,Bachelors,23.0,0.0,No,58.7,11.2,46041.0
+296: Solar Installation Technician,Construction,Canada,Medium,Bachelors,7.0,0.0,No,72.3,9.4,87219.0
+297: Climate Data Scientist,Government,India,Small,Bachelors,17.0,50.0,No,30.9,,43495.0
+298: Environmental Compliance Officer,Finance,Australia,Large,Masters,1.0,0.0,Yes,51.0,4.3,90744.0
+299: ESG Consultant,Construction,Canada,Large,Bachelors,0.0,0.0,No,90.2,11.5,83214.0
+300: Sustainability Analyst,Finance,USA,Small,Bachelors,1.0,50.0,No,,22.2,82230.0
+301: Carbon Accountant,Energy,Brazil,Medium,Diploma,24.0,100.0,No,77.4,6.1,72207.0
+302: Climate Data Scientist,Construction,UK,Small,Bachelors,15.0,50.0,No,50.3,8.4,119473.0
+303: Sustainability Analyst,Finance,Australia,Small,Bachelors,20.0,0.0,Yes,70.9,5.8,130136.0
+304: Climate Data Scientist,Government,Kenya,Small,Bachelors,0.0,0.0,No,81.9,5.6,25639.0
+305: Solar Installation Technician,Agriculture,Canada,Small,Bachelors,0.0,0.0,Yes,74.8,15.7,76159.0
+306: Renewable Energy Engineer,Agriculture,Australia,Medium,Masters,22.0,0.0,Yes,78.2,4.6,135643.0
+307: Carbon Accountant,Finance,India,Large,PhD,2.0,50.0,Yes,37.0,5.6,33154.0
+308: Solar Installation Technician,Energy,Germany,Small,Bachelors,4.0,0.0,No,82.3,0.1,93222.0
+309: Carbon Accountant,Construction,UK,Medium,Masters,13.0,50.0,Yes,42.9,4.2,104123.0
+310: Renewable Energy Engineer,Government,Brazil,Large,Masters,15.0,100.0,Yes,65.2,0.0,55953.0
+311: Wind Turbine Technician,Energy,Canada,Large,PhD,5.0,100.0,Yes,65.2,11.2,88737.0
+312: Wind Turbine Technician,Government,India,Medium,Masters,11.0,0.0,No,,,39959.0
+313: Renewable Energy Engineer,Technology,Brazil,Small,Masters,17.0,0.0,No,66.7,6.2,60743.0
+314: ESG Consultant,Manufacturing,Brazil,Medium,,11.0,0.0,Yes,43.1,0.0,54815.0
+315: ESG Consultant,Agriculture,Kenya,Medium,Masters,9.0,0.0,Yes,33.0,12.5,32468.0
+316: Wind Turbine Technician,Agriculture,India,Large,Bachelors,1.0,0.0,No,77.4,4.4,28770.0
+317: Green Building Architect,Energy,Australia,Medium,Diploma,11.0,0.0,Yes,63.7,14.5,
+318: Green Building Architect,Energy,Canada,Medium,Diploma,20.0,50.0,No,,6.6,118759.0
+319: CSR Manager,Technology,UK,Small,Bachelors,16.0,0.0,No,59.1,4.8,112081.0
+320: Green Building Architect,Government,UK,Medium,Bachelors,23.0,100.0,No,31.9,7.1,132355.0
+321: Carbon Accountant,Energy,USA,Large,Bachelors,3.0,0.0,Yes,79.3,11.8,90086.0
+322: Renewable Energy Engineer,Technology,India,Medium,Bachelors,0.0,0.0,No,52.6,6.9,25828.0
+323: Wind Turbine Technician,Energy,Canada,Medium,Bachelors,14.0,,Yes,66.8,5.5,113088.0
+324: CSR Manager,Technology,Kenya,Large,,4.0,0.0,No,47.1,7.0,24930.0
+325: CSR Manager,Technology,Brazil,Large,Diploma,15.0,0.0,No,92.9,1.6,62042.0
+326: ESG Consultant,Energy,Germany,Medium,Bachelors,23.0,100.0,No,42.5,10.0,146932.0
+327: ESG Consultant,Technology,Australia,Medium,Masters,8.0,0.0,No,53.3,0.0,96557.0
+328: Sustainability Analyst,Government,USA,Medium,Masters,14.0,0.0,Yes,62.1,5.8,137804.0
+329: Renewable Energy Engineer,Government,Australia,Medium,PhD,17.0,50.0,No,38.2,11.8,129468.0
+330: Solar Installation Technician,Energy,India,Medium,Masters,3.0,0.0,No,66.6,9.5,31117.0
+331: Solar Installation Technician,Manufacturing,UK,Small,Masters,23.0,50.0,Yes,92.2,11.0,145278.0
+332: Carbon Accountant,Manufacturing,Australia,Large,Bachelors,5.0,,No,50.2,7.7,84917.0
+333: Carbon Accountant,Finance,UK,Large,Bachelors,21.0,100.0,No,67.9,13.8,127251.0
+334: Climate Data Scientist,Manufacturing,Brazil,Large,Bachelors,,0.0,No,5.0,12.6,53572.0
+335: Environmental Compliance Officer,Agriculture,Canada,Large,Masters,3.0,0.0,No,59.2,10.2,87108.0
+336: Climate Data Scientist,Agriculture,Kenya,Large,PhD,,50.0,No,53.7,,43117.0
+337: CSR Manager,Agriculture,Australia,Large,Bachelors,5.0,100.0,No,43.6,11.8,87260.0
+338: Carbon Accountant,Manufacturing,India,Large,Bachelors,15.0,0.0,Yes,81.6,,39746.0
+339: ESG Consultant,Energy,Brazil,Medium,Bachelors,24.0,50.0,Yes,53.5,1.3,63648.0
+340: CSR Manager,Government,UK,Medium,Bachelors,24.0,0.0,Yes,56.5,10.1,137442.0
+341: Wind Turbine Technician,Construction,Canada,Small,Bachelors,22.0,0.0,No,52.5,10.7,134363.0
+342: ESG Consultant,Technology,Germany,Medium,Diploma,12.0,0.0,No,21.7,13.5,105934.0
+343: Wind Turbine Technician,Government,USA,Small,PhD,14.0,50.0,No,,3.3,131517.0
+344: Solar Installation Technician,Energy,Canada,Small,Bachelors,7.0,0.0,Yes,79.2,3.5,96286.0
+345: CSR Manager,Energy,Germany,Medium,Masters,23.0,50.0,Yes,17.8,10.3,134894.0
+346: ESG Consultant,Energy,Kenya,Medium,Masters,12.0,0.0,No,44.7,7.6,33423.0
+347: CSR Manager,Manufacturing,Brazil,Small,Bachelors,20.0,100.0,Yes,52.0,0.0,
+348: CSR Manager,Energy,Australia,Large,Bachelors,9.0,100.0,Yes,94.9,9.9,114223.0
+349: Renewable Energy Engineer,Agriculture,Australia,Large,Masters,,0.0,No,75.4,0.0,113094.0
+350: Renewable Energy Engineer,Technology,Canada,Small,Bachelors,5.0,0.0,Yes,48.9,3.3,88048.0
+351: Solar Installation Technician,Government,USA,Small,PhD,19.0,0.0,Yes,86.1,14.8,152814.0
+352: Sustainability Analyst,Agriculture,UK,Medium,Diploma,1.0,100.0,No,45.2,17.1,72503.0
+353: ESG Consultant,Government,UK,Large,Masters,2.0,0.0,No,80.2,1.9,100516.0
+354: Environmental Compliance Officer,Manufacturing,Kenya,Large,Masters,9.0,50.0,Yes,32.8,6.4,30328.0
+355: CSR Manager,Construction,Germany,Small,Bachelors,12.0,0.0,No,81.5,8.2,108445.0
+356: CSR Manager,Agriculture,UK,Large,Bachelors,18.0,50.0,No,51.9,16.9,120170.0
+357: Renewable Energy Engineer,Manufacturing,India,Small,PhD,9.0,0.0,No,,5.5,38084.0
+358: Climate Data Scientist,Energy,Germany,Medium,Bachelors,0.0,50.0,No,55.7,5.6,77088.0
+359: Sustainability Analyst,Technology,USA,Large,Bachelors,8.0,100.0,No,65.5,15.7,104282.0
+360: Green Building Architect,Agriculture,India,Small,Bachelors,11.0,0.0,No,50.1,6.1,34887.0
+361: Climate Data Scientist,Government,USA,Small,Bachelors,14.0,100.0,No,71.1,11.6,141986.0
+362: Climate Data Scientist,Government,USA,Medium,Masters,16.0,0.0,No,48.3,0.6,139678.0
+363: ESG Consultant,Energy,India,Medium,Masters,,0.0,Yes,72.4,7.1,36238.0
+364: Climate Data Scientist,Agriculture,Germany,Large,Bachelors,15.0,100.0,Yes,68.8,0.0,119471.0
+365: Renewable Energy Engineer,Agriculture,Canada,Large,Masters,16.0,,No,58.8,2.7,110774.0
+366: Solar Installation Technician,Technology,USA,Small,Bachelors,20.0,50.0,Yes,,12.2,159132.0
+367: Environmental Compliance Officer,Agriculture,India,Small,Diploma,13.0,0.0,No,63.0,7.8,37992.0
+368: Carbon Accountant,Agriculture,UK,Large,Bachelors,21.0,0.0,No,71.0,6.4,127886.0
+369: Sustainability Analyst,Finance,Kenya,Small,PhD,5.0,0.0,No,100.0,4.3,34222.0
+370: Green Building Architect,Energy,Australia,Large,Diploma,18.0,50.0,Yes,78.8,6.9,117339.0
+371: Carbon Accountant,Finance,Kenya,Medium,,1.0,0.0,No,79.5,9.5,24910.0
+372: Wind Turbine Technician,Manufacturing,India,Small,Bachelors,2.0,0.0,No,100.0,12.9,31465.0
+373: Environmental Compliance Officer,Energy,UK,Large,Masters,22.0,0.0,Yes,70.3,0.0,136441.0
+374: Carbon Accountant,Energy,UK,Small,Diploma,12.0,0.0,Yes,69.7,3.8,105899.0
+375: Climate Data Scientist,Technology,Kenya,Medium,Bachelors,16.0,0.0,Yes,74.1,8.8,41875.0
+376: Sustainability Analyst,Finance,Kenya,Medium,Masters,15.0,0.0,Yes,39.8,7.5,37028.0
+377: Green Building Architect,Finance,Kenya,Medium,Bachelors,18.0,100.0,Yes,51.1,10.0,33062.0
+378: Green Building Architect,Agriculture,Brazil,Medium,Bachelors,6.0,50.0,No,49.9,9.3,46280.0
+379: Carbon Accountant,Finance,Canada,Medium,Bachelors,4.0,0.0,No,73.0,6.5,84827.0
+380: ESG Consultant,Technology,Canada,Large,Bachelors,1.0,50.0,Yes,56.5,5.4,77113.0
+381: Sustainability Analyst,Energy,Kenya,Large,Bachelors,22.0,,Yes,62.8,6.8,42564.0
+382: CSR Manager,Agriculture,India,Medium,Masters,5.0,0.0,Yes,81.7,13.7,34653.0
+383: CSR Manager,Finance,India,Small,Masters,14.0,0.0,No,77.3,4.3,41984.0
+384: ESG Consultant,Manufacturing,Kenya,Large,Masters,11.0,0.0,Yes,56.8,7.7,35663.0
+385: Sustainability Analyst,Agriculture,UK,Large,PhD,4.0,0.0,No,46.6,8.9,89473.0
+386: Renewable Energy Engineer,Agriculture,Germany,Medium,Bachelors,10.0,,Yes,82.7,15.8,102624.0
+387: Sustainability Analyst,Energy,Canada,Medium,Bachelors,2.0,100.0,Yes,75.5,6.5,99333.0
+388: Climate Data Scientist,Manufacturing,India,Medium,PhD,4.0,0.0,No,27.9,12.8,30741.0
+389: Climate Data Scientist,Energy,Kenya,Small,Bachelors,3.0,50.0,Yes,53.7,14.2,26546.0
+390: Renewable Energy Engineer,Manufacturing,Kenya,Medium,Masters,21.0,0.0,Yes,63.3,7.7,38788.0
+391: Green Building Architect,Energy,India,Medium,Masters,14.0,50.0,Yes,75.6,6.9,42628.0
+392: Renewable Energy Engineer,Technology,Canada,Large,Diploma,24.0,50.0,No,78.2,6.4,124461.0
+393: Carbon Accountant,Finance,Kenya,Large,Bachelors,11.0,0.0,No,65.7,6.7,32770.0
+394: Solar Installation Technician,Government,Australia,Large,Bachelors,5.0,0.0,No,71.7,12.3,99082.0
+395: Green Building Architect,Agriculture,Germany,Medium,,15.0,50.0,No,61.3,,122116.0
+396: Climate Data Scientist,Technology,Canada,Medium,Bachelors,24.0,100.0,Yes,46.5,9.2,131030.0
+397: Sustainability Analyst,Finance,Canada,Large,Bachelors,13.0,0.0,No,54.8,2.4,93186.0
+398: Renewable Energy Engineer,Energy,Australia,Large,Masters,0.0,0.0,Yes,60.4,3.2,94016.0
+399: ESG Consultant,Energy,USA,Medium,PhD,7.0,0.0,No,59.3,18.7,109674.0
+400: Carbon Accountant,Technology,India,Large,Masters,24.0,50.0,No,22.3,7.1,52739.0
+401: CSR Manager,Energy,Brazil,Small,Bachelors,13.0,50.0,Yes,52.1,4.1,56750.0
+402: Green Building Architect,Energy,Germany,Large,Bachelors,24.0,50.0,No,61.1,15.2,
+403: Carbon Accountant,Manufacturing,India,Small,Bachelors,13.0,50.0,Yes,54.4,9.4,36879.0
+404: CSR Manager,Government,India,Small,Diploma,0.0,100.0,No,55.1,10.9,26989.0
+405: Environmental Compliance Officer,Finance,Germany,Medium,PhD,22.0,100.0,Yes,69.8,,141393.0
+406: Solar Installation Technician,Technology,Germany,Small,Bachelors,19.0,0.0,No,38.4,6.4,125100.0
+407: Environmental Compliance Officer,Construction,India,Small,Bachelors,18.0,50.0,No,27.4,7.2,41436.0
+408: Renewable Energy Engineer,Manufacturing,Brazil,Small,Masters,25.0,0.0,Yes,53.0,1.1,62881.0
+409: CSR Manager,Construction,USA,Medium,Bachelors,5.0,0.0,No,75.3,7.6,116697.0
+410: Sustainability Analyst,Energy,India,Large,Diploma,23.0,100.0,No,93.8,9.5,49328.0
+411: Renewable Energy Engineer,Agriculture,USA,Small,Bachelors,6.0,50.0,No,,17.3,106032.0
+412: ESG Consultant,Manufacturing,Canada,Medium,Masters,25.0,100.0,Yes,30.6,8.4,127376.0
+413: ESG Consultant,Construction,India,Large,Masters,,0.0,No,55.4,,33920.0
+414: Renewable Energy Engineer,Government,Brazil,Small,Bachelors,14.0,50.0,No,65.1,7.5,52497.0
+415: Sustainability Analyst,Technology,Canada,Small,PhD,20.0,0.0,No,63.6,21.7,111616.0
+416: Wind Turbine Technician,Finance,Brazil,Large,Masters,2.0,,Yes,70.8,12.3,45396.0
+417: CSR Manager,Finance,Australia,Large,Masters,1.0,0.0,Yes,41.7,3.9,85270.0
+418: Renewable Energy Engineer,Agriculture,UK,Medium,Bachelors,22.0,50.0,No,61.3,11.0,129314.0
+419: ESG Consultant,Manufacturing,Brazil,Large,Diploma,1.0,0.0,Yes,68.4,4.3,36009.0
+420: Solar Installation Technician,Technology,UK,Small,Masters,15.0,100.0,No,76.5,1.2,118705.0
+421: CSR Manager,Government,Kenya,Medium,Bachelors,24.0,0.0,No,43.9,6.3,39298.0
+422: Wind Turbine Technician,Technology,Kenya,Large,Masters,15.0,0.0,Yes,53.1,8.5,35143.0
+423: Green Building Architect,Finance,Canada,Small,Masters,12.0,50.0,Yes,,0.0,92194.0
+424: Solar Installation Technician,Manufacturing,Australia,Large,Diploma,10.0,0.0,No,47.6,2.3,104198.0
+425: Environmental Compliance Officer,Manufacturing,India,Medium,,16.0,100.0,Yes,49.5,8.1,41986.0
+426: Renewable Energy Engineer,Government,Brazil,Large,PhD,14.0,50.0,No,39.6,6.0,56686.0
+427: Climate Data Scientist,Finance,Australia,Medium,Masters,13.0,0.0,No,63.3,10.0,125317.0
+428: Climate Data Scientist,Construction,Kenya,Medium,Bachelors,3.0,50.0,No,58.9,1.9,27574.0
+429: Sustainability Analyst,Construction,India,Small,Masters,17.0,50.0,Yes,14.8,11.6,42564.0
+430: Green Building Architect,Technology,Brazil,Small,Bachelors,19.0,50.0,No,64.3,2.1,60224.0
+431: Sustainability Analyst,Finance,UK,Large,Masters,18.0,100.0,No,41.4,16.2,119009.0
+432: Green Building Architect,Technology,Germany,Small,Masters,1.0,50.0,Yes,69.7,0.0,72042.0
+433: Climate Data Scientist,Manufacturing,Germany,Small,Masters,18.0,50.0,No,34.4,2.5,131952.0
+434: Renewable Energy Engineer,Technology,Canada,Small,Bachelors,18.0,0.0,No,60.6,10.1,117350.0
+435: Environmental Compliance Officer,Finance,India,Small,Diploma,4.0,50.0,No,54.3,16.3,29676.0
+436: Renewable Energy Engineer,Government,USA,Large,Bachelors,22.0,100.0,No,,9.6,155621.0
+437: Solar Installation Technician,Manufacturing,UK,Medium,Bachelors,13.0,50.0,Yes,62.5,10.8,
+438: CSR Manager,Manufacturing,Australia,Large,Bachelors,12.0,50.0,Yes,54.9,8.1,96646.0
+439: Sustainability Analyst,Finance,India,Small,Bachelors,18.0,0.0,Yes,29.3,2.9,40711.0
+440: Carbon Accountant,Finance,Kenya,Medium,Bachelors,13.0,50.0,Yes,30.5,5.5,30955.0
+441: CSR Manager,Technology,Brazil,Medium,Masters,14.0,100.0,No,48.3,1.9,62274.0
+442: Carbon Accountant,Construction,Canada,Medium,PhD,8.0,0.0,Yes,,1.6,103981.0
+443: Renewable Energy Engineer,Government,Kenya,Large,Bachelors,24.0,0.0,No,47.8,10.0,38332.0
+444: Environmental Compliance Officer,Finance,UK,Large,Masters,,50.0,Yes,72.5,2.4,133999.0
+445: Solar Installation Technician,Energy,Germany,Large,Masters,3.0,0.0,Yes,54.4,9.6,91464.0
+446: Wind Turbine Technician,Energy,USA,Small,Bachelors,19.0,50.0,No,,1.5,137864.0
+447: Carbon Accountant,Government,Kenya,Small,Bachelors,0.0,0.0,Yes,54.4,9.5,21274.0
+448: CSR Manager,Energy,Kenya,Medium,Masters,9.0,0.0,No,64.5,5.6,36823.0
+449: Solar Installation Technician,Government,Australia,Small,PhD,25.0,50.0,No,66.5,15.0,146361.0
+450: ESG Consultant,Manufacturing,USA,Large,Masters,4.0,50.0,No,97.6,9.6,117729.0
+451: CSR Manager,Energy,India,Medium,PhD,9.0,50.0,Yes,46.6,14.2,36096.0
+452: CSR Manager,Construction,USA,Medium,PhD,5.0,50.0,No,58.5,4.2,118760.0
+453: Environmental Compliance Officer,Technology,USA,Large,Bachelors,18.0,50.0,Yes,68.5,8.3,142659.0
+454: Sustainability Analyst,Construction,Germany,Large,Masters,12.0,50.0,No,59.5,3.1,113896.0
+455: Solar Installation Technician,Agriculture,Canada,Small,Bachelors,15.0,50.0,No,50.0,5.9,110109.0
+456: Solar Installation Technician,Technology,USA,Small,PhD,24.0,,Yes,29.0,6.7,149118.0
+457: Renewable Energy Engineer,Construction,Kenya,Medium,Diploma,13.0,50.0,Yes,49.8,4.4,36718.0
+458: Wind Turbine Technician,Technology,UK,Medium,,19.0,0.0,Yes,38.5,1.9,121566.0
+459: Climate Data Scientist,Government,India,Small,Masters,2.0,0.0,Yes,25.5,0.9,32138.0
+460: Renewable Energy Engineer,Construction,Canada,Medium,Bachelors,5.0,50.0,No,44.1,0.0,76481.0
+461: Green Building Architect,Manufacturing,Brazil,Large,Masters,24.0,100.0,No,,2.7,65534.0
+462: Renewable Energy Engineer,Construction,India,Large,Bachelors,22.0,,No,,,45693.0
+463: Green Building Architect,Agriculture,USA,Medium,PhD,17.0,0.0,Yes,72.0,0.0,151504.0
+464: Environmental Compliance Officer,Manufacturing,USA,Medium,Masters,9.0,50.0,No,41.9,1.2,118591.0
+465: Sustainability Analyst,Government,Brazil,Small,Bachelors,5.0,0.0,Yes,54.8,17.0,42344.0
+466: CSR Manager,Technology,USA,Medium,Masters,22.0,50.0,No,22.8,4.8,
+467: Renewable Energy Engineer,Technology,Australia,Medium,Bachelors,20.0,100.0,Yes,50.1,9.6,115954.0
+468: Solar Installation Technician,Construction,UK,Medium,Masters,6.0,50.0,Yes,68.0,11.2,95776.0
+469: Renewable Energy Engineer,Government,Brazil,Medium,Masters,15.0,50.0,No,76.5,11.3,57963.0
+470: CSR Manager,Energy,USA,Small,Masters,16.0,0.0,Yes,45.7,0.4,132301.0
+471: Green Building Architect,Construction,Kenya,Small,Diploma,12.0,0.0,No,81.0,6.8,36873.0
+472: Climate Data Scientist,Construction,Australia,Small,Bachelors,24.0,100.0,No,29.7,,129877.0
+473: Environmental Compliance Officer,Finance,UK,Large,Masters,3.0,50.0,Yes,35.0,20.2,94182.0
+474: Environmental Compliance Officer,Finance,Germany,Medium,Bachelors,6.0,50.0,No,74.2,0.0,94190.0
+475: Wind Turbine Technician,Manufacturing,Kenya,Small,Bachelors,2.0,0.0,No,93.4,2.8,27747.0
+476: Green Building Architect,Manufacturing,India,Large,Diploma,18.0,0.0,No,69.9,2.8,43842.0
+477: Climate Data Scientist,Energy,UK,Medium,Bachelors,16.0,0.0,No,59.2,0.5,104630.0
+478: Sustainability Analyst,Technology,UK,Medium,Masters,25.0,0.0,No,16.1,14.8,144652.0
+479: Wind Turbine Technician,Construction,Germany,Large,Diploma,14.0,0.0,No,,20.1,108435.0
+480: Renewable Energy Engineer,Finance,UK,Small,Bachelors,3.0,100.0,No,62.6,,88870.0
+481: ESG Consultant,Technology,Germany,Small,PhD,11.0,50.0,No,52.8,1.4,108357.0
+482: Climate Data Scientist,Technology,USA,Medium,,,,Yes,37.9,0.0,89322.0
+483: ESG Consultant,Finance,India,Small,Masters,17.0,0.0,Yes,61.3,6.8,41902.0
+484: Green Building Architect,Technology,USA,Medium,Bachelors,17.0,0.0,No,62.3,6.4,149880.0
+485: Environmental Compliance Officer,Technology,UK,Small,Masters,22.0,100.0,Yes,78.9,4.7,137430.0
+486: ESG Consultant,Technology,Brazil,Small,Masters,,0.0,Yes,,9.1,50889.0
+487: Carbon Accountant,Technology,Germany,Small,Masters,8.0,50.0,Yes,84.6,,116266.0
+488: Solar Installation Technician,Construction,USA,Medium,Bachelors,1.0,100.0,No,,9.6,103171.0
+489: Green Building Architect,Manufacturing,USA,Small,Bachelors,10.0,0.0,Yes,57.7,6.4,124431.0
+490: Wind Turbine Technician,Agriculture,Canada,Small,Masters,12.0,50.0,No,81.3,2.5,97467.0
+491: CSR Manager,Construction,India,Large,Bachelors,19.0,100.0,No,,11.3,42670.0
+492: Climate Data Scientist,Finance,UK,Medium,Bachelors,19.0,0.0,No,100.0,8.1,121854.0
+493: Green Building Architect,Manufacturing,USA,Medium,Diploma,3.0,,Yes,67.5,12.4,103760.0
+494: Wind Turbine Technician,Finance,India,Small,PhD,7.0,100.0,No,67.6,12.0,37094.0
+495: ESG Consultant,Finance,UK,Medium,Masters,13.0,100.0,No,70.5,0.9,104189.0
+496: Environmental Compliance Officer,Technology,UK,Small,Masters,8.0,50.0,No,97.5,0.8,102704.0
+497: Renewable Energy Engineer,Finance,Canada,Medium,Masters,0.0,50.0,No,75.9,4.2,69450.0
+498: Carbon Accountant,Construction,Brazil,Small,Bachelors,21.0,0.0,Yes,,2.7,61286.0
+499: CSR Manager,Government,UK,Large,Bachelors,19.0,100.0,No,88.1,11.8,117304.0
+500: Environmental Compliance Officer,Finance,Brazil,Large,Bachelors,13.0,0.0,Yes,53.2,9.8,56296.0
